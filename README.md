@@ -25,7 +25,7 @@ I wrote my own special firmware that handles my current needs, super light weigh
 ![SimplifiedSchematicSW01](https://user-images.githubusercontent.com/122814994/212727556-2644c7e3-6e7e-4ecf-8637-206c9392de77.jpg)
 
 What about ESPHome?
-If you're part of the group that uses ESPHome you can get the YAML file in this Repo. I had tried using ESPHome recently but for my specific setup (Raspberry Pi Zero W 2 ) can't handle it, it's too resource intensive! By using my own firmware I can run all my smart wall switches natively (No aAddons!) But please feel free to go ahead and check the YAML sketch.
+If you're part of the group that uses ESPHome you can get the YAML file in this Repo. I had tried using ESPHome recently but for my specific setup (Raspberry Pi Zero W 2 ) can't handle it, it's too resource intensive! By using my own firmware I can run all my smart wall switches natively (No Addons!) But please feel free to go ahead and check the YAML sketch.
 
 Give it a try!
 
