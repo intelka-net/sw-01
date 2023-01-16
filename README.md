@@ -1,2 +1,2 @@
-# sw-01
+# SW-01
 Intelka Smart Switch 1 Gang Repo
