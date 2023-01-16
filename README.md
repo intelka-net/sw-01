@@ -14,7 +14,9 @@ Why did you make it?
 Because I tried to buy off the shelf switches and they force you to use their own app, give away your personal information to some obscure company lost somewhere in the middle of the woods and by the time you realize you already have multiple apps to control your house appliances, depending on the terms of service of each cloud provider they could potentially ask for money later on to keep your house running including the risk of someone hacking in due to some security issue.
 
 What makes it special?
-At home we use both IOS and Android and it allows me to integrate directly with Apple Products through HomeAssistant + HomeKit and also with HomeAssistant + Google Assistant and keep other products working through only one App!
+At home we use both IOS and Android and it allows me to integrate directly with Apple Products through HomeAssistant + HomeKit and also with HomeAssistant + Google Assistant and keep other products working through only one App! Runs completely locally! Instant feedback! :D 
+
+![SimplifiedFlowTurnOnLight](https://user-images.githubusercontent.com/122814994/212749712-d7dfc430-ee77-4447-bd79-0a2be9f485e7.jpg)
 
 You can link it with any MQTT compatible software! You can directly send it commands, it has a physical button to press and give physical feedback and blend in as a normal wall switch.
 
