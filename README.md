@@ -1,7 +1,7 @@
 # SW-01
 Intelka Smart Switch 1 Gang Repo
 
-This repo purpose is to give everyone interesed a deeper look to the IntelKA Single Switch
+This repo purpose is to give everyone interesed a deeper look to the IntelKA Single Switch available for purchase at https://www.intelka.net
 
 What is it?
 It's an MQTT Wifi Wall Mounted Smart Switch that can be linked with any MQTT Compatible Smart House Software, like HomeAssistant, OpenHAB, NodeRed... etc. using the popular ESP8266
