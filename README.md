@@ -28,7 +28,12 @@ You'll find in this repository a "fitting" file for you to check if the switch d
 ![Captura de pantalla 2023-01-16 192525](https://user-images.githubusercontent.com/122814994/212744881-8d0347f6-d680-4a57-a894-fd43c9f46f0a.png)
 
 What about the code? 
-I wrote my own special firmware that handles my current needs, super light weight and very little configuration (Only enter your WiFi and MQTT Broker details and you're set to go!) by using the MQTT Auto Discovery feature from HomeAssistant to make it automagically show up on your dashboard!. I'm trying to make my hobby a small business I provide the compiled binary .hex version you can easily burn it on any ESP8266 board and following the Simplified Diagram you can check out if this would work for you. If that would be the case you can then go to my website https://www.intelka.net and purchase for what I consider a reasonable price an assembled switch for you to play with! That way you support my work and allow me to spend more time creating cool home automation projects! :D
+I wrote my own special firmware that handles my current needs, super light weight and very little configuration (Only enter your WiFi and MQTT Broker details and you're set to go!) by using the MQTT Auto Discovery feature from HomeAssistant to make it automagically show up on your dashboard!. I'm trying to make my hobby a small business I provide the compiled binary .hex version you can easily burn it on any ESP8266 board.
+
+You can use this guide to burn the .bin file:
+https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32
+
+You can perform the wiring following the Simplified Diagram you can check out if this would work for you. If that would be the case you can then go to my website https://www.intelka.net and purchase for what I consider a reasonable price an assembled switch for you to play with! That way you support my work and allow me to spend more time creating cool home automation projects! :D
 
 WARNING! | ATTENTION!
 
