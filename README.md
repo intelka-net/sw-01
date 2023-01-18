@@ -30,6 +30,10 @@ You'll find in this repository a "fitting" file for you to check if the switch d
 What about the code? 
 I wrote my own special firmware that handles my current needs, super light weight and very little configuration (Only enter your WiFi and MQTT Broker details and you're set to go!) by using the MQTT Auto Discovery feature from HomeAssistant to make it automagically show up on your dashboard!. I'm trying to make my hobby a small business I provide the compiled binary .hex version you can easily burn it on any ESP8266 board and following the Simplified Diagram you can check out if this would work for you. If that would be the case you can then go to my website https://www.intelka.net and purchase for what I consider a reasonable price an assembled switch for you to play with! That way you support my work and allow me to spend more time creating cool home automation projects! :D
 
+WARNING! | ATTENTION!
+
+Please note this are Simplified Schematics and its purpoese is representative only and that anyone using your device should ensure they follow the regulations of their country! If in doubt please consider reaching out to your local electrician.
+
 ![SimplifiedSchematicSW01](https://user-images.githubusercontent.com/122814994/212727556-2644c7e3-6e7e-4ecf-8637-206c9392de77.jpg)
 
 What about ESPHome?
