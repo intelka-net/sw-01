@@ -32,7 +32,7 @@ I wrote my own special firmware that handles my current needs, super light weigh
 
 WARNING! | ATTENTION!
 
-Please note this are Simplified Schematics and its purpoese is representative only and that anyone using your device should ensure they follow the regulations of their country! If in doubt please consider reaching out to your local electrician.
+Please note these are Simplified Schematics and its purpoese is representative only and that anyone using your device should ensure they follow the regulations of their country! If in doubt please consider reaching out to your local electrician.
 
 ![SimplifiedSchematicSW01](https://user-images.githubusercontent.com/122814994/212727556-2644c7e3-6e7e-4ecf-8637-206c9392de77.jpg)
 
