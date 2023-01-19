@@ -50,7 +50,12 @@ Please note these are Simplified Schematics and its purpoese is representative o
 
 
 What about ESPHome?
+
 If you're part of the group that uses ESPHome you can get the YAML file in this Repo. I tried using ESPHome recently but for my specific setup (Raspberry Pi Zero W 2 ) can't handle it, it's too resource intensive! By using my own firmware I can run all my smart wall switches natively (No Addons!) But please feel free to go ahead and check the YAML sketch.
+
+What about Tasmota?
+
+Exposed pins are ready for you to load it! Just set the input and output pins as shown in the diagram and you should be set in no time. I tried using Tasmota recently but for my specific setup (Raspberry Pi Zero W 2 ) can't handle it, it's too resource intensive! By using my own firmware I can run all my smart wall switches natively (No Addons!)
 
 Give it a try!
 
