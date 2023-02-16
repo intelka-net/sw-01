@@ -60,3 +60,4 @@ Exposed pins are ready for you to load it! Just set the input and output pins as
 Give it a try!
 
 
+Copyright IntelKA 2023 (C) All Rights Reserved
